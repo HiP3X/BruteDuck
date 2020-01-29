@@ -8,9 +8,12 @@ Features:\
   -Customizable string length\
   -Customizable delay between actions
 
-Bonus
+# Bonus
 
 Another tool that generates a random string containing numbers which I used for testing
 
 Features:\
   -Build in timer
+  
+  # Note
+  There are some optimizations that can be done. For exaple the use of
