@@ -1,6 +1,7 @@
 # BruteDuck
 
-A python script that creates another script based on the "Ducky Script" language to be used on a Ruber Ducky
+A python script that creates another script based on the "Ducky Script" language to be used on a Ruber Ducky\
+The script created can be used to execute a "Brute Force" attack on given target
 
 Features:\
   -Customizable string\
