@@ -10,7 +10,7 @@ Features:\
 
 # Bonus
 
-Another tool that generates a random string containing numbers which I used for testing.
+Another tool that generates a random string containing numbers which I used for testing the rubber ducky.
 
 Features:\
   -Build in timer
