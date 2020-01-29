@@ -5,7 +5,7 @@ A python script that creates another script based on the "Ducky Script" language
 Features:\
   -Customizable string\
   -Customizable string length\
-  -Customizable delay between actions\
+  -Customizable delay between actions
 
 Bonus
 
