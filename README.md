@@ -1,7 +1,6 @@
 # BruteDuck
 
-A python script that creates another script based on the "Ducky Script" language to be used on a Ruber Ducky.\
-The script created can be used to execute a "Brute Force" attack on given target.
+I have created a python script, which takes custom parameters (set by the user) and uses them to generate a text file that contains a "DuckyScript" based script, that can be used to brute-force any plain text password. In other words, guessing the correct input (password) until it gets it right. It's the equivalent of you typing all possible passwords into a login panel until you get it right, just faster.
 
 Features:\
   -Customizable string.\
